@@ -4,13 +4,10 @@ int main(){
     int  n;
     cout<<"No of rows : ";
     cin>>n;
-    int m;
-    cout<<"No of columns : ";
-    cin>>m;
     for(int i=1;i<=n;i++) {
-        for(int j=1;j<=m;j++) {
+        for(int i=1;i<=n;i++) {
     cout<<"* ";
         }
-         // cout<<endl;
+      cout<<endl;
 }
 }
