@@ -6,8 +6,8 @@ int main(){
     cin>>n;
      for(int i=1;i<=n;i++){
         cout<<endl;
-        for(int j=1;j<=4;j++){
-            cout<<j;
+        for(int j=1;j<=n;j++){
+            cout<<j<<" ";
         }
      }
 }
